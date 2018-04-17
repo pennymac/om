@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/pennymac/om.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/pennymac/om.git</developerConnection>
-    <tag>b4739d1d2cb5807a77974d18f11109690308d9d0
+    <tag>4b111eb364ac5785bf04113a2af5e35bb92c4db5
 </tag>
     <url>https://github.com/pennymac/om</url>
   </scm>

@@ -1,4 +1,4 @@
-(defproject com.pennymacusa/om "1.0.0-beta3"
+(defproject com.pennymacusa/om "1.0.0"
   :description "ClojureScript interface to Facebook's React"
   :url "http://github.com/pennymac/om"
   :license {:name "Eclipse"
